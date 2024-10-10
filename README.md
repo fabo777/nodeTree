@@ -1,1 +1,1 @@
-Pošto frontend nije bio obavezan drag and drop funkcijonalnost sam zamjenio gumbima
+Za riješavanje zadatka koristio sam PHP/Laravel za backend i JavaScript/Vue.js za frontend te MYSQL za bazu. Budući da frontend nije bio obavezan, umjesto funkcionalnosti povlačenja i ispuštanja (drag and drop), implementirao sam gumbe. Iz istog razloga nisam ulagao vrijeme u dizajn.
